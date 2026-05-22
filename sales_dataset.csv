@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Product,Category,Quantity,Unit_Price,Sales,Profit,City,Region
+5000,01-01-2023,Monitor,Electronics,4,1146,4584,229.3,Bangalore,South
+5001,02-01-2023,Office Desk,Furniture,1,194,194,25.09,Mumbai,West
+5002,03-01-2023,Laptop,Electronics,5,1464,7320,1735.63,Mumbai,West
+5003,04-01-2023,Keyboard,Electronics,3,518,1554,141.24,Hyderabad,South
+5004,05-01-2023,Smartphone,Electronics,5,448,2240,412.37,Chennai,South
+5005,06-01-2023,Printer,Office Supplies,2,803,1606,125.39,Chennai,South
+5006,07-01-2023,Keyboard,Electronics,2,1467,2934,617.76,Mumbai,West
+5007,08-01-2023,Monitor,Electronics,2,563,1126,251.1,Delhi,North
+5008,09-01-2023,Smartphone,Electronics,1,778,778,44.98,Bangalore,South
+5009,10-01-2023,Printer,Office Supplies,3,683,2049,377.23,Delhi,North
+5010,11-01-2023,Monitor,Electronics,4,1387,5548,496.6,Chennai,South
+5011,12-01-2023,Printer,Office Supplies,2,1117,2234,418.43,Hyderabad,South
+5012,13-01-2023,Laptop,Electronics,1,671,671,38.14,Chennai,South
+5013,14-01-2023,Office Desk,Furniture,1,246,246,26.99,Delhi,North
+5014,15-01-2023,Laptop,Electronics,3,1096,3288,761.89,Chennai,South
+5015,16-01-2023,Office Desk,Furniture,5,205,1025,55.22,Mumbai,West
+5016,17-01-2023,Printer,Office Supplies,1,1362,1362,140.43,Hyderabad,South
+5017,18-01-2023,Smartphone,Electronics,2,293,586,141.41,Bangalore,South
+5018,19-01-2023,Notebook,Office Supplies,1,1225,1225,162.69,Mumbai,West
+5019,20-01-2023,Monitor,Electronics,4,946,3784,227,Chennai,South
+5020,21-01-2023,Laptop,Electronics,5,519,2595,396.98,Delhi,North
+5021,22-01-2023,Notebook,Office Supplies,4,199,796,180.39,Hyderabad,South
+5022,23-01-2023,Monitor,Electronics,1,1149,1149,89.46,Bangalore,South
+5023,24-01-2023,Desk Chair,Furniture,5,921,4605,382.54,Delhi,North
+5024,25-01-2023,Laptop,Electronics,1,260,260,46.17,Hyderabad,South
+5025,26-01-2023,Printer,Office Supplies,5,899,4495,807.08,Pune,West
+5026,27-01-2023,Headphones,Electronics,3,466,1398,320.39,Mumbai,West
+5027,28-01-2023,Monitor,Electronics,5,539,2695,141.04,Hyderabad,South
+5028,29-01-2023,Smartphone,Electronics,2,180,360,26.26,Bangalore,South
+5029,30-01-2023,Headphones,Electronics,3,316,948,114.77,Mumbai,West
+5030,31-01-2023,Mouse,Electronics,3,520,1560,151.95,Mumbai,West
+5031,01-02-2023,Keyboard,Electronics,1,1089,1089,222.75,Chennai,South
+5032,02-02-2023,Keyboard,Electronics,5,680,3400,528.4,Chennai,South
+5033,03-02-2023,Laptop,Electronics,2,676,1352,313.27,Hyderabad,South
+5034,04-02-2023,Desk Chair,Furniture,3,1170,3510,364.34,Pune,West
+5035,05-02-2023,Laptop,Electronics,2,455,910,227.01,Pune,West
+5036,06-02-2023,Monitor,Electronics,4,1099,4396,872.84,Chennai,South
+5037,07-02-2023,Smartphone,Electronics,5,861,4305,413.59,Mumbai,West
+5038,08-02-2023,Smartphone,Electronics,4,961,3844,901.82,Delhi,North
+5039,09-02-2023,Office Desk,Furniture,3,249,747,63.09,Mumbai,West
+5040,10-02-2023,Monitor,Electronics,1,71,71,10.79,Hyderabad,South
+5041,11-02-2023,Smartphone,Electronics,2,419,838,132.21,Delhi,North
+5042,12-02-2023,Keyboard,Electronics,1,1308,1308,89.35,Pune,West
+5043,13-02-2023,Office Desk,Furniture,3,1024,3072,498.3,Bangalore,South
+5044,14-02-2023,Monitor,Electronics,4,999,3996,773.14,Pune,West
+5045,15-02-2023,Laptop,Electronics,5,1122,5610,1124.1,Hyderabad,South
+5046,16-02-2023,Keyboard,Electronics,5,105,525,40.58,Hyderabad,South
+5047,17-02-2023,Notebook,Office Supplies,3,1210,3630,213.84,Mumbai,West
+5048,18-02-2023,Headphones,Electronics,1,1023,1023,197.03,Hyderabad,South
+5049,19-02-2023,Printer,Office Supplies,1,1285,1285,82.75,Pune,West
+5050,20-02-2023,Mouse,Electronics,5,1345,6725,609.68,Pune,West
+5051,21-02-2023,Office Desk,Furniture,4,1325,5300,472.16,Pune,West
+5052,22-02-2023,Office Desk,Furniture,4,1127,4508,988.9,Pune,West
+5053,23-02-2023,Printer,Office Supplies,4,340,1360,123.59,Delhi,North
+5054,24-02-2023,Monitor,Electronics,4,501,2004,163.04,Chennai,South
+5055,25-02-2023,Smartphone,Electronics,2,1161,2322,263.48,Hyderabad,South
+5056,26-02-2023,Keyboard,Electronics,3,707,2121,339.76,Hyderabad,South
+5057,27-02-2023,Smartphone,Electronics,5,256,1280,182.31,Hyderabad,South
+5058,28-02-2023,Monitor,Electronics,2,731,1462,94.81,Chennai,South
+5059,01-03-2023,Desk Chair,Furniture,2,1304,2608,165.11,Delhi,North
+5060,02-03-2023,Keyboard,Electronics,5,667,3335,295.77,Delhi,North
+5061,03-03-2023,Smartphone,Electronics,1,1349,1349,316.96,Bangalore,South
+5062,04-03-2023,Smartphone,Electronics,4,929,3716,726.86,Delhi,North
+5063,05-03-2023,Notebook,Office Supplies,5,1205,6025,815.56,Pune,West
+5064,06-03-2023,Smartphone,Electronics,5,576,2880,464.63,Chennai,South
+5065,07-03-2023,Smartphone,Electronics,5,555,2775,355.2,Mumbai,West
+5066,08-03-2023,Desk Chair,Furniture,5,1111,5555,779.92,Bangalore,South
+5067,09-03-2023,Notebook,Office Supplies,5,574,2870,370.16,Hyderabad,South
+5068,10-03-2023,Desk Chair,Furniture,4,932,3728,195.88,Hyderabad,South
+5069,11-03-2023,Office Desk,Furniture,3,467,1401,74.26,Bangalore,South
+5070,12-03-2023,Smartphone,Electronics,2,1382,2764,210.62,Delhi,North
+5071,13-03-2023,Printer,Office Supplies,2,388,776,82.49,Chennai,South
+5072,14-03-2023,Office Desk,Furniture,5,592,2960,290.96,Delhi,North
+5073,15-03-2023,Laptop,Electronics,3,120,360,57.34,Chennai,South
+5074,16-03-2023,Printer,Office Supplies,4,1250,5000,740.25,Pune,West
+5075,17-03-2023,Office Desk,Furniture,5,1353,6765,1627.43,Chennai,South
+5076,18-03-2023,Keyboard,Electronics,5,299,1495,316.15,Pune,West
+5077,19-03-2023,Monitor,Electronics,2,731,1462,311.44,Delhi,North
+5078,20-03-2023,Monitor,Electronics,5,900,4500,268.32,Bangalore,South
+5079,21-03-2023,Notebook,Office Supplies,5,1186,5930,1101.88,Chennai,South
+5080,22-03-2023,Printer,Office Supplies,3,262,786,175.67,Chennai,South
+5081,23-03-2023,Desk Chair,Furniture,2,820,1640,401.4,Pune,West
+5082,24-03-2023,Laptop,Electronics,1,845,845,112.79,Delhi,North
+5083,25-03-2023,Smartphone,Electronics,4,447,1788,299.25,Hyderabad,South
+5084,26-03-2023,Keyboard,Electronics,5,1242,6210,355.8,Bangalore,South
+5085,27-03-2023,Printer,Office Supplies,4,1434,5736,656.98,Pune,West
+5086,28-03-2023,Keyboard,Electronics,3,1172,3516,344.72,Hyderabad,South
+5087,29-03-2023,Printer,Office Supplies,3,844,2532,192.53,Bangalore,South
+5088,30-03-2023,Laptop,Electronics,1,1051,1051,196.47,Pune,West
+5089,31-03-2023,Desk Chair,Furniture,4,568,2272,213.51,Bangalore,South
+5090,01-04-2023,Notebook,Office Supplies,4,429,1716,263.44,Pune,West
+5091,02-04-2023,Mouse,Electronics,2,1048,2096,463.17,Bangalore,South
+5092,03-04-2023,Smartphone,Electronics,2,964,1928,128.62,Hyderabad,South
+5093,04-04-2023,Headphones,Electronics,5,784,3920,641.98,Pune,West
+5094,05-04-2023,Smartphone,Electronics,1,793,793,162.22,Mumbai,West
+5095,06-04-2023,Keyboard,Electronics,4,1068,4272,1053.32,Pune,West
+5096,07-04-2023,Laptop,Electronics,1,218,218,48.62,Hyderabad,South
+5097,08-04-2023,Laptop,Electronics,3,782,2346,384.51,Delhi,North
+5098,09-04-2023,Laptop,Electronics,2,812,1624,374.78,Bangalore,South
+5099,10-04-2023,Notebook,Office Supplies,2,1021,2042,344.08,Pune,West
+5100,11-04-2023,Keyboard,Electronics,2,92,184,29.08,Hyderabad,South
+5101,12-04-2023,Laptop,Electronics,1,640,640,46.19,Bangalore,South
+5102,13-04-2023,Headphones,Electronics,2,551,1102,100.99,Pune,West
+5103,14-04-2023,Laptop,Electronics,1,1334,1334,177.65,Mumbai,West
+5104,15-04-2023,Laptop,Electronics,3,886,2658,302.6,Delhi,North
+5105,16-04-2023,Desk Chair,Furniture,3,894,2682,390.04,Pune,West
+5106,17-04-2023,Mouse,Electronics,5,556,2780,441.47,Mumbai,West
+5107,18-04-2023,Office Desk,Furniture,4,194,776,61.26,Hyderabad,South
+5108,19-04-2023,Keyboard,Electronics,5,337,1685,325.32,Delhi,North
+5109,20-04-2023,Printer,Office Supplies,1,1008,1008,226.38,Pune,West
+5110,21-04-2023,Smartphone,Electronics,2,54,108,24.12,Bangalore,South
+5111,22-04-2023,Notebook,Office Supplies,3,212,636,111.31,Pune,West
+5112,23-04-2023,Notebook,Office Supplies,3,172,516,104.15,Bangalore,South
+5113,24-04-2023,Office Desk,Furniture,3,1304,3912,222.65,Pune,West
+5114,25-04-2023,Printer,Office Supplies,1,247,247,27.36,Pune,West
+5115,26-04-2023,Keyboard,Electronics,2,384,768,141.67,Bangalore,South
+5116,27-04-2023,Laptop,Electronics,4,224,896,185.07,Bangalore,South
+5117,28-04-2023,Notebook,Office Supplies,4,872,3488,849.69,Delhi,North
+5118,29-04-2023,Smartphone,Electronics,1,1358,1358,214.99,Bangalore,South
+5119,30-04-2023,Smartphone,Electronics,3,384,1152,286.6,Bangalore,South
+5120,01-05-2023,Printer,Office Supplies,3,113,339,41.07,Mumbai,West
+5121,02-05-2023,Headphones,Electronics,5,207,1035,171.25,Mumbai,West
+5122,03-05-2023,Office Desk,Furniture,3,1006,3018,440.67,Hyderabad,South
+5123,04-05-2023,Monitor,Electronics,4,953,3812,614.13,Mumbai,West
+5124,05-05-2023,Smartphone,Electronics,4,978,3912,355.14,Hyderabad,South
+5125,06-05-2023,Laptop,Electronics,4,592,2368,473.68,Mumbai,West
+5126,07-05-2023,Headphones,Electronics,2,1480,2960,449.04,Pune,West
+5127,08-05-2023,Keyboard,Electronics,3,271,813,120.16,Delhi,North
+5128,09-05-2023,Desk Chair,Furniture,3,1379,4137,343.94,Delhi,North
+5129,10-05-2023,Desk Chair,Furniture,4,997,3988,630.86,Mumbai,West
+5130,11-05-2023,Smartphone,Electronics,1,462,462,46.92,Chennai,South
+5131,12-05-2023,Mouse,Electronics,4,888,3552,850.74,Chennai,South
+5132,13-05-2023,Printer,Office Supplies,4,1303,5212,984.45,Pune,West
+5133,14-05-2023,Desk Chair,Furniture,4,421,1684,99.63,Chennai,South
+5134,15-05-2023,Printer,Office Supplies,3,218,654,77.49,Pune,West
+5135,16-05-2023,Office Desk,Furniture,4,650,2600,555.24,Bangalore,South
+5136,17-05-2023,Laptop,Electronics,2,1156,2312,181.92,Chennai,South
+5137,18-05-2023,Smartphone,Electronics,5,1100,5500,348.4,Pune,West
+5138,19-05-2023,Office Desk,Furniture,3,912,2736,549.86,Mumbai,West
+5139,20-05-2023,Notebook,Office Supplies,3,1427,4281,1054.96,Chennai,South
+5140,21-05-2023,Mouse,Electronics,5,894,4470,647.26,Delhi,North
+5141,22-05-2023,Monitor,Electronics,2,602,1204,247.9,Mumbai,West
+5142,23-05-2023,Desk Chair,Furniture,2,313,626,35.99,Chennai,South
+5143,24-05-2023,Mouse,Electronics,3,638,1914,136.36,Mumbai,West
+5144,25-05-2023,Mouse,Electronics,3,1455,4365,995.37,Chennai,South
+5145,26-05-2023,Office Desk,Furniture,2,297,594,48.44,Delhi,North
+5146,27-05-2023,Notebook,Office Supplies,5,1112,5560,1051.96,Bangalore,South
+5147,28-05-2023,Keyboard,Electronics,5,1235,6175,1186.99,Delhi,North
+5148,29-05-2023,Notebook,Office Supplies,2,344,688,113.35,Pune,West
+5149,30-05-2023,Printer,Office Supplies,4,1105,4420,326.6,Delhi,North
+5150,31-05-2023,Monitor,Electronics,1,978,978,100.6,Delhi,North
+5151,01-06-2023,Office Desk,Furniture,1,414,414,42.78,Pune,West
+5152,02-06-2023,Mouse,Electronics,1,274,274,56.02,Pune,West
+5153,03-06-2023,Mouse,Electronics,2,973,1946,266.05,Hyderabad,South
+5154,04-06-2023,Monitor,Electronics,5,1392,6960,1520.74,Bangalore,South
+5155,05-06-2023,Mouse,Electronics,1,408,408,73.44,Delhi,North
+5156,06-06-2023,Notebook,Office Supplies,2,850,1700,195.84,Mumbai,West
+5157,07-06-2023,Printer,Office Supplies,2,1381,2762,519.38,Mumbai,West
+5158,08-06-2023,Monitor,Electronics,4,462,1848,215.64,Delhi,North
+5159,09-06-2023,Desk Chair,Furniture,4,1170,4680,718.16,Chennai,South
+5160,10-06-2023,Printer,Office Supplies,3,980,2940,242.22,Hyderabad,South
+5161,11-06-2023,Desk Chair,Furniture,2,864,1728,392.77,Mumbai,West
+5162,12-06-2023,Headphones,Electronics,1,1114,1114,260.72,Delhi,North
+5163,13-06-2023,Desk Chair,Furniture,3,1066,3198,420.03,Hyderabad,South
+5164,14-06-2023,Desk Chair,Furniture,5,434,2170,184.35,Pune,West
+5165,15-06-2023,Office Desk,Furniture,3,1223,3669,882.85,Bangalore,South
+5166,16-06-2023,Notebook,Office Supplies,4,1177,4708,461.72,Mumbai,West
+5167,17-06-2023,Office Desk,Furniture,3,1113,3339,610.44,Hyderabad,South
+5168,18-06-2023,Printer,Office Supplies,1,905,905,77.48,Hyderabad,South
+5169,19-06-2023,Laptop,Electronics,3,946,2838,203.01,Bangalore,South
+5170,20-06-2023,Headphones,Electronics,5,926,4630,513.2,Mumbai,West
+5171,21-06-2023,Smartphone,Electronics,1,1317,1317,74.39,Chennai,South
+5172,22-06-2023,Printer,Office Supplies,3,925,2775,176.73,Mumbai,West
+5173,23-06-2023,Mouse,Electronics,1,601,601,102.71,Bangalore,South
+5174,24-06-2023,Notebook,Office Supplies,2,1008,2016,179.78,Delhi,North
+5175,25-06-2023,Office Desk,Furniture,5,830,4150,603.31,Mumbai,West
+5176,26-06-2023,Mouse,Electronics,3,900,2700,551.66,Delhi,North
+5177,27-06-2023,Notebook,Office Supplies,4,917,3668,518.95,Pune,West
+5178,28-06-2023,Smartphone,Electronics,5,731,3655,264.55,Bangalore,South
+5179,29-06-2023,Smartphone,Electronics,1,1370,1370,128.84,Pune,West
+5180,30-06-2023,Notebook,Office Supplies,3,268,804,161.59,Bangalore,South
+5181,01-07-2023,Laptop,Electronics,2,1163,2326,351,Hyderabad,South
+5182,02-07-2023,Headphones,Electronics,3,147,441,24.07,Pune,West
+5183,03-07-2023,Keyboard,Electronics,3,958,2874,402.8,Delhi,North
+5184,04-07-2023,Office Desk,Furniture,5,1369,6845,1594.6,Bangalore,South
+5185,05-07-2023,Printer,Office Supplies,1,214,214,25.06,Chennai,South
+5186,06-07-2023,Laptop,Electronics,2,82,164,23.23,Delhi,North
+5187,07-07-2023,Printer,Office Supplies,1,1124,1124,117.82,Delhi,North
+5188,08-07-2023,Desk Chair,Furniture,4,987,3948,630.2,Chennai,South
+5189,09-07-2023,Mouse,Electronics,4,592,2368,235.34,Pune,West
+5190,10-07-2023,Desk Chair,Furniture,3,785,2355,482.21,Hyderabad,South
+5191,11-07-2023,Headphones,Electronics,3,736,2208,278.32,Hyderabad,South
+5192,12-07-2023,Office Desk,Furniture,5,127,635,129.2,Mumbai,West
+5193,13-07-2023,Monitor,Electronics,4,1261,5044,1003.22,Hyderabad,South
+5194,14-07-2023,Smartphone,Electronics,3,1489,4467,706.94,Hyderabad,South
+5195,15-07-2023,Smartphone,Electronics,5,1128,5640,1109.89,Bangalore,South
+5196,16-07-2023,Notebook,Office Supplies,3,618,1854,342.83,Mumbai,West
+5197,17-07-2023,Notebook,Office Supplies,5,1248,6240,601.16,Hyderabad,South
+5198,18-07-2023,Smartphone,Electronics,3,201,603,115.93,Pune,West
+5199,19-07-2023,Laptop,Electronics,3,1079,3237,468.61,Chennai,South
+5200,20-07-2023,Notebook,Office Supplies,4,167,668,46.86,Delhi,North
+5201,21-07-2023,Headphones,Electronics,5,979,4895,643.33,Bangalore,South
+5202,22-07-2023,Headphones,Electronics,1,803,803,63.72,Pune,West
+5203,23-07-2023,Desk Chair,Furniture,3,264,792,47.12,Mumbai,West
+5204,24-07-2023,Smartphone,Electronics,1,1151,1151,195.89,Mumbai,West
+5205,25-07-2023,Smartphone,Electronics,3,1369,4107,457.15,Bangalore,South
+5206,26-07-2023,Printer,Office Supplies,4,1063,4252,277.25,Hyderabad,South
+5207,27-07-2023,Keyboard,Electronics,3,892,2676,163.85,Chennai,South
+5208,28-07-2023,Keyboard,Electronics,4,1105,4420,632.79,Chennai,South
+5209,29-07-2023,Keyboard,Electronics,2,63,126,8.32,Bangalore,South
+5210,30-07-2023,Office Desk,Furniture,2,1210,2420,469.95,Chennai,South
+5211,31-07-2023,Mouse,Electronics,5,891,4455,340.51,Hyderabad,South
+5212,01-08-2023,Monitor,Electronics,4,1105,4420,970.05,Chennai,South
+5213,02-08-2023,Headphones,Electronics,3,1234,3702,449.47,Bangalore,South
+5214,03-08-2023,Notebook,Office Supplies,5,1249,6245,1291.5,Chennai,South
+5215,04-08-2023,Desk Chair,Furniture,2,1126,2252,421.83,Pune,West
+5216,05-08-2023,Notebook,Office Supplies,5,1053,5265,822.88,Chennai,South
+5217,06-08-2023,Smartphone,Electronics,3,304,912,93.25,Bangalore,South
+5218,07-08-2023,Desk Chair,Furniture,2,804,1608,312.89,Pune,West
+5219,08-08-2023,Desk Chair,Furniture,5,93,465,75.23,Chennai,South
+5220,09-08-2023,Office Desk,Furniture,3,241,723,143.8,Hyderabad,South
+5221,10-08-2023,Keyboard,Electronics,4,1239,4956,1173.48,Delhi,North
+5222,11-08-2023,Office Desk,Furniture,4,189,756,163.51,Bangalore,South
+5223,12-08-2023,Mouse,Electronics,1,282,282,57.01,Hyderabad,South
+5224,13-08-2023,Laptop,Electronics,4,1199,4796,959.8,Chennai,South
+5225,14-08-2023,Notebook,Office Supplies,3,666,1998,378.54,Hyderabad,South
+5226,15-08-2023,Keyboard,Electronics,1,164,164,19.95,Hyderabad,South
+5227,16-08-2023,Office Desk,Furniture,1,357,357,24.63,Pune,West
+5228,17-08-2023,Desk Chair,Furniture,5,59,295,25.29,Hyderabad,South
+5229,18-08-2023,Monitor,Electronics,4,1403,5612,606.26,Mumbai,West
+5230,19-08-2023,Mouse,Electronics,3,443,1329,184.5,Pune,West
+5231,20-08-2023,Desk Chair,Furniture,4,487,1948,232.08,Delhi,North
+5232,21-08-2023,Desk Chair,Furniture,4,559,2236,320.75,Hyderabad,South
+5233,22-08-2023,Notebook,Office Supplies,2,604,1208,193.41,Mumbai,West
+5234,23-08-2023,Monitor,Electronics,1,1151,1151,81.33,Hyderabad,South
+5235,24-08-2023,Office Desk,Furniture,5,796,3980,543.65,Bangalore,South
+5236,25-08-2023,Office Desk,Furniture,5,442,2210,333.58,Mumbai,West
+5237,26-08-2023,Headphones,Electronics,3,216,648,94.9,Mumbai,West
+5238,27-08-2023,Headphones,Electronics,4,894,3576,835.38,Hyderabad,South
+5239,28-08-2023,Office Desk,Furniture,1,405,405,88.93,Hyderabad,South
+5240,29-08-2023,Keyboard,Electronics,3,685,2055,492.06,Bangalore,South
+5241,30-08-2023,Keyboard,Electronics,5,399,1995,171.62,Bangalore,South
+5242,31-08-2023,Monitor,Electronics,5,600,3000,187.51,Pune,West
+5243,01-09-2023,Laptop,Electronics,2,885,1770,91.66,Bangalore,South
+5244,02-09-2023,Desk Chair,Furniture,4,805,3220,444.25,Pune,West
+5245,03-09-2023,Headphones,Electronics,1,869,869,126.5,Hyderabad,South
+5246,04-09-2023,Notebook,Office Supplies,5,1150,5750,1317.87,Pune,West
+5247,05-09-2023,Laptop,Electronics,4,770,3080,557.2,Hyderabad,South
+5248,06-09-2023,Notebook,Office Supplies,3,235,705,106.56,Mumbai,West
+5249,07-09-2023,Monitor,Electronics,3,1041,3123,339.92,Chennai,South
+5250,08-09-2023,Mouse,Electronics,2,738,1476,113.4,Hyderabad,South
+5251,09-09-2023,Mouse,Electronics,5,1016,5080,1061.29,Hyderabad,South
+5252,10-09-2023,Laptop,Electronics,1,205,205,47.35,Bangalore,South
+5253,11-09-2023,Notebook,Office Supplies,5,812,4060,320.76,Chennai,South
+5254,12-09-2023,Smartphone,Electronics,1,836,836,93.79,Hyderabad,South
+5255,13-09-2023,Smartphone,Electronics,4,1443,5772,758.35,Bangalore,South
+5256,14-09-2023,Printer,Office Supplies,5,239,1195,211.83,Chennai,South
+5257,15-09-2023,Monitor,Electronics,5,1223,6115,864.63,Hyderabad,South
+5258,16-09-2023,Printer,Office Supplies,4,1490,5960,724.15,Delhi,North
+5259,17-09-2023,Smartphone,Electronics,3,360,1080,109.64,Pune,West
+5260,18-09-2023,Office Desk,Furniture,3,1163,3489,225.02,Chennai,South
+5261,19-09-2023,Office Desk,Furniture,4,988,3952,660.26,Pune,West
+5262,20-09-2023,Mouse,Electronics,2,683,1366,191.19,Delhi,North
+5263,21-09-2023,Desk Chair,Furniture,4,399,1596,152.64,Hyderabad,South
+5264,22-09-2023,Desk Chair,Furniture,4,1047,4188,571.71,Mumbai,West
+5265,23-09-2023,Smartphone,Electronics,2,1464,2928,248.73,Bangalore,South
+5266,24-09-2023,Headphones,Electronics,4,761,3044,256.57,Mumbai,West
+5267,25-09-2023,Headphones,Electronics,3,59,177,10.02,Mumbai,West
+5268,26-09-2023,Laptop,Electronics,2,505,1010,83.46,Hyderabad,South
+5269,27-09-2023,Headphones,Electronics,4,83,332,58.54,Bangalore,South
+5270,28-09-2023,Monitor,Electronics,4,1499,5996,503.59,Mumbai,West
+5271,29-09-2023,Keyboard,Electronics,3,505,1515,117.06,Bangalore,South
+5272,30-09-2023,Laptop,Electronics,2,801,1602,228.39,Pune,West
+5273,01-10-2023,Keyboard,Electronics,3,71,213,40.18,Mumbai,West
+5274,02-10-2023,Notebook,Office Supplies,4,77,308,67.54,Hyderabad,South
+5275,03-10-2023,Office Desk,Furniture,3,1479,4437,600.45,Hyderabad,South
+5276,04-10-2023,Laptop,Electronics,4,1068,4272,821.99,Hyderabad,South
+5277,05-10-2023,Headphones,Electronics,1,297,297,54.74,Hyderabad,South
+5278,06-10-2023,Mouse,Electronics,5,644,3220,464.06,Hyderabad,South
+5279,07-10-2023,Smartphone,Electronics,3,301,903,130.21,Bangalore,South
+5280,08-10-2023,Smartphone,Electronics,3,1014,3042,437.24,Mumbai,West
+5281,09-10-2023,Headphones,Electronics,3,171,513,56.95,Hyderabad,South
+5282,10-10-2023,Mouse,Electronics,1,1237,1237,182.65,Hyderabad,South
+5283,11-10-2023,Headphones,Electronics,3,1024,3072,736.57,Pune,West
+5284,12-10-2023,Monitor,Electronics,2,1382,2764,461.55,Chennai,South
+5285,13-10-2023,Mouse,Electronics,2,1248,2496,155.27,Delhi,North
+5286,14-10-2023,Monitor,Electronics,2,147,294,20.05,Bangalore,South
+5287,15-10-2023,Notebook,Office Supplies,3,842,2526,298.26,Bangalore,South
+5288,16-10-2023,Smartphone,Electronics,5,923,4615,734.48,Mumbai,West
+5289,17-10-2023,Smartphone,Electronics,1,1041,1041,54.76,Mumbai,West
+5290,18-10-2023,Keyboard,Electronics,2,1051,2102,287.5,Mumbai,West
+5291,19-10-2023,Notebook,Office Supplies,3,83,249,42.31,Hyderabad,South
+5292,20-10-2023,Printer,Office Supplies,5,960,4800,983.43,Hyderabad,South
+5293,21-10-2023,Keyboard,Electronics,2,129,258,47.69,Hyderabad,South
+5294,22-10-2023,Headphones,Electronics,3,1478,4434,260.31,Pune,West
+5295,23-10-2023,Headphones,Electronics,3,1153,3459,861.33,Bangalore,South
+5296,24-10-2023,Printer,Office Supplies,4,1019,4076,229.15,Delhi,North
+5297,25-10-2023,Smartphone,Electronics,1,768,768,89.13,Delhi,North
+5298,26-10-2023,Mouse,Electronics,5,329,1645,199.13,Pune,West
+5299,27-10-2023,Notebook,Office Supplies,3,204,612,57.96,Chennai,South
+5300,28-10-2023,Smartphone,Electronics,2,1247,2494,354.52,Delhi,North
+5301,29-10-2023,Keyboard,Electronics,2,746,1492,208.55,Chennai,South
+5302,30-10-2023,Keyboard,Electronics,3,1426,4278,563.92,Pune,West
+5303,31-10-2023,Desk Chair,Furniture,4,105,420,93.52,Chennai,South
+5304,01-11-2023,Laptop,Electronics,5,510,2550,620.13,Bangalore,South
+5305,02-11-2023,Headphones,Electronics,5,404,2020,102.05,Bangalore,South
+5306,03-11-2023,Smartphone,Electronics,1,265,265,23.09,Mumbai,West
+5307,04-11-2023,Office Desk,Furniture,5,289,1445,294.14,Mumbai,West
+5308,05-11-2023,Headphones,Electronics,2,1382,2764,147.44,Delhi,North
+5309,06-11-2023,Office Desk,Furniture,5,1253,6265,1139.41,Delhi,North
+5310,07-11-2023,Smartphone,Electronics,1,358,358,42.43,Bangalore,South
+5311,08-11-2023,Smartphone,Electronics,4,976,3904,445.86,Pune,West
+5312,09-11-2023,Mouse,Electronics,1,153,153,36.97,Hyderabad,South
+5313,10-11-2023,Desk Chair,Furniture,3,311,933,186.11,Mumbai,West
+5314,11-11-2023,Keyboard,Electronics,2,348,696,83.4,Mumbai,West
+5315,12-11-2023,Headphones,Electronics,5,324,1620,338.03,Delhi,North
+5316,13-11-2023,Headphones,Electronics,2,1263,2526,174.61,Pune,West
+5317,14-11-2023,Keyboard,Electronics,1,1129,1129,118.28,Mumbai,West
+5318,15-11-2023,Laptop,Electronics,5,1090,5450,619.04,Pune,West
+5319,16-11-2023,Notebook,Office Supplies,5,1030,5150,404.58,Chennai,South
+5320,17-11-2023,Smartphone,Electronics,3,790,2370,165.92,Bangalore,South
+5321,18-11-2023,Headphones,Electronics,3,1381,4143,324.78,Pune,West
+5322,19-11-2023,Printer,Office Supplies,2,906,1812,435.29,Mumbai,West
+5323,20-11-2023,Office Desk,Furniture,5,1245,6225,919.81,Delhi,North
+5324,21-11-2023,Smartphone,Electronics,1,1423,1423,142.24,Chennai,South
+5325,22-11-2023,Headphones,Electronics,4,316,1264,301.1,Pune,West
+5326,23-11-2023,Headphones,Electronics,5,188,940,108.25,Pune,West
+5327,24-11-2023,Headphones,Electronics,5,933,4665,373.69,Pune,West
+5328,25-11-2023,Laptop,Electronics,4,1155,4620,1108.22,Bangalore,South
+5329,26-11-2023,Mouse,Electronics,1,581,581,130.74,Pune,West
+5330,27-11-2023,Smartphone,Electronics,1,434,434,36,Bangalore,South
+5331,28-11-2023,Desk Chair,Furniture,5,1262,6310,1115.26,Bangalore,South
+5332,29-11-2023,Keyboard,Electronics,1,1248,1248,213.44,Hyderabad,South
+5333,30-11-2023,Monitor,Electronics,1,1282,1282,105.51,Hyderabad,South
+5334,01-12-2023,Printer,Office Supplies,2,213,426,22.61,Pune,West
+5335,02-12-2023,Office Desk,Furniture,2,1039,2078,209.02,Chennai,South
+5336,03-12-2023,Office Desk,Furniture,4,915,3660,560,Bangalore,South
+5337,04-12-2023,Mouse,Electronics,4,84,336,36.25,Delhi,North
+5338,05-12-2023,Printer,Office Supplies,4,1391,5564,417.9,Hyderabad,South
+5339,06-12-2023,Laptop,Electronics,4,373,1492,126.52,Pune,West
+5340,07-12-2023,Desk Chair,Furniture,2,1479,2958,711.38,Chennai,South
+5341,08-12-2023,Keyboard,Electronics,5,1132,5660,1384.99,Hyderabad,South
+5342,09-12-2023,Smartphone,Electronics,1,1136,1136,155.54,Mumbai,West
+5343,10-12-2023,Office Desk,Furniture,1,576,576,58.7,Bangalore,South
+5344,11-12-2023,Office Desk,Furniture,3,213,639,109.86,Delhi,North
+5345,12-12-2023,Headphones,Electronics,2,267,534,53.77,Chennai,South
+5346,13-12-2023,Headphones,Electronics,5,538,2690,507.96,Delhi,North
+5347,14-12-2023,Headphones,Electronics,1,591,591,102.64,Delhi,North
+5348,15-12-2023,Headphones,Electronics,1,872,872,135.94,Chennai,South
+5349,16-12-2023,Desk Chair,Furniture,5,606,3030,407.03,Chennai,South
+5350,17-12-2023,Desk Chair,Furniture,3,130,390,25.68,Delhi,North
+5351,18-12-2023,Desk Chair,Furniture,1,1217,1217,275.47,Hyderabad,South
+5352,19-12-2023,Headphones,Electronics,4,915,3660,473.4,Pune,West
+5353,20-12-2023,Laptop,Electronics,3,980,2940,255.46,Hyderabad,South
+5354,21-12-2023,Headphones,Electronics,3,430,1290,94.2,Mumbai,West
+5355,22-12-2023,Desk Chair,Furniture,5,346,1730,396.34,Bangalore,South
+5356,23-12-2023,Office Desk,Furniture,3,897,2691,589.26,Bangalore,South
+5357,24-12-2023,Desk Chair,Furniture,1,484,484,57.66,Chennai,South
+5358,25-12-2023,Notebook,Office Supplies,1,449,449,75.56,Pune,West
+5359,26-12-2023,Notebook,Office Supplies,4,411,1644,342.93,Chennai,South
+5360,27-12-2023,Printer,Office Supplies,1,562,562,49.74,Delhi,North
+5361,28-12-2023,Mouse,Electronics,3,1026,3078,355.97,Delhi,North
+5362,29-12-2023,Office Desk,Furniture,2,50,100,23.27,Delhi,North
+5363,30-12-2023,Headphones,Electronics,2,133,266,60.09,Mumbai,West
+5364,31-12-2023,Keyboard,Electronics,2,1056,2112,410.28,Hyderabad,South
+5365,01-01-2024,Smartphone,Electronics,2,138,276,65.55,Hyderabad,South
+5366,02-01-2024,Office Desk,Furniture,2,702,1404,309.14,Mumbai,West
+5367,03-01-2024,Smartphone,Electronics,5,1333,6665,1574.35,Chennai,South
+5368,04-01-2024,Office Desk,Furniture,5,1231,6155,668.9,Delhi,North
+5369,05-01-2024,Keyboard,Electronics,3,1102,3306,729.51,Chennai,South
+5370,06-01-2024,Headphones,Electronics,4,784,3136,322.47,Delhi,North
+5371,07-01-2024,Printer,Office Supplies,2,1307,2614,177.65,Pune,West
+5372,08-01-2024,Monitor,Electronics,1,579,579,78.32,Chennai,South
+5373,09-01-2024,Office Desk,Furniture,3,406,1218,136.12,Pune,West
+5374,10-01-2024,Laptop,Electronics,5,767,3835,707.54,Delhi,North
+5375,11-01-2024,Monitor,Electronics,5,592,2960,225.58,Hyderabad,South
+5376,12-01-2024,Desk Chair,Furniture,5,402,2010,349.18,Mumbai,West
+5377,13-01-2024,Office Desk,Furniture,1,1262,1262,260.24,Bangalore,South
+5378,14-01-2024,Headphones,Electronics,2,1041,2082,436.74,Delhi,North
+5379,15-01-2024,Mouse,Electronics,4,548,2192,467.11,Bangalore,South
+5380,16-01-2024,Office Desk,Furniture,3,436,1308,190.03,Pune,West
+5381,17-01-2024,Laptop,Electronics,4,260,1040,129.67,Delhi,North
+5382,18-01-2024,Notebook,Office Supplies,4,389,1556,174,Mumbai,West
+5383,19-01-2024,Notebook,Office Supplies,4,1165,4660,690.71,Delhi,North
+5384,20-01-2024,Headphones,Electronics,5,1452,7260,651.35,Delhi,North
+5385,21-01-2024,Office Desk,Furniture,2,1404,2808,547.51,Delhi,North
+5386,22-01-2024,Smartphone,Electronics,3,881,2643,228.15,Hyderabad,South
+5387,23-01-2024,Desk Chair,Furniture,3,218,654,140.69,Mumbai,West
+5388,24-01-2024,Notebook,Office Supplies,1,1412,1412,156.73,Delhi,North
+5389,25-01-2024,Smartphone,Electronics,5,1156,5780,670.3,Hyderabad,South
+5390,26-01-2024,Printer,Office Supplies,1,656,656,144.02,Delhi,North
+5391,27-01-2024,Keyboard,Electronics,3,1031,3093,367.66,Chennai,South
+5392,28-01-2024,Desk Chair,Furniture,4,1030,4120,937.84,Mumbai,West
+5393,29-01-2024,Laptop,Electronics,3,234,702,123.3,Pune,West
+5394,30-01-2024,Smartphone,Electronics,4,998,3992,846.91,Chennai,South
+5395,31-01-2024,Office Desk,Furniture,2,684,1368,160.53,Hyderabad,South
+5396,01-02-2024,Headphones,Electronics,4,1159,4636,1152.23,Chennai,South
+5397,02-02-2024,Headphones,Electronics,4,1428,5712,370.79,Mumbai,West
+5398,03-02-2024,Printer,Office Supplies,4,259,1036,250.02,Chennai,South
+5399,04-02-2024,Notebook,Office Supplies,4,142,568,134.04,Hyderabad,South
+5400,05-02-2024,Desk Chair,Furniture,4,314,1256,89.22,Delhi,North
+5401,06-02-2024,Smartphone,Electronics,5,722,3610,532.25,Delhi,North
+5402,07-02-2024,Office Desk,Furniture,5,430,2150,460.58,Delhi,North
+5403,08-02-2024,Keyboard,Electronics,1,937,937,113.42,Mumbai,West
+5404,09-02-2024,Desk Chair,Furniture,4,350,1400,122.52,Chennai,South
+5405,10-02-2024,Printer,Office Supplies,2,1294,2588,289.47,Mumbai,West
+5406,11-02-2024,Mouse,Electronics,1,175,175,20.49,Hyderabad,South
+5407,12-02-2024,Notebook,Office Supplies,5,1369,6845,519.38,Chennai,South
+5408,13-02-2024,Smartphone,Electronics,1,1397,1397,201.31,Pune,West
+5409,14-02-2024,Headphones,Electronics,1,1364,1364,167.36,Bangalore,South
+5410,15-02-2024,Keyboard,Electronics,2,117,234,57.66,Hyderabad,South
+5411,16-02-2024,Notebook,Office Supplies,2,845,1690,87.63,Delhi,North
+5412,17-02-2024,Smartphone,Electronics,2,1326,2652,290.43,Mumbai,West
+5413,18-02-2024,Mouse,Electronics,1,641,641,46.93,Bangalore,South
+5414,19-02-2024,Monitor,Electronics,1,208,208,41.36,Hyderabad,South
+5415,20-02-2024,Keyboard,Electronics,3,1141,3423,597.82,Bangalore,South
+5416,21-02-2024,Notebook,Office Supplies,3,572,1716,108.96,Mumbai,West
+5417,22-02-2024,Keyboard,Electronics,2,422,844,113.62,Pune,West
+5418,23-02-2024,Smartphone,Electronics,4,1340,5360,481.77,Delhi,North
+5419,24-02-2024,Notebook,Office Supplies,1,331,331,21.8,Chennai,South
+5420,25-02-2024,Headphones,Electronics,4,1002,4008,432.77,Mumbai,West
+5421,26-02-2024,Desk Chair,Furniture,5,1299,6495,1549.83,Mumbai,West
+5422,27-02-2024,Smartphone,Electronics,1,1216,1216,77.99,Hyderabad,South
+5423,28-02-2024,Mouse,Electronics,4,1425,5700,1405.15,Bangalore,South
+5424,29-02-2024,Headphones,Electronics,1,1012,1012,127.33,Hyderabad,South
+5425,01-03-2024,Printer,Office Supplies,3,1151,3453,786.18,Bangalore,South
+5426,02-03-2024,Desk Chair,Furniture,2,1492,2984,313.82,Hyderabad,South
+5427,03-03-2024,Headphones,Electronics,3,263,789,101.44,Mumbai,West
+5428,04-03-2024,Mouse,Electronics,1,928,928,166.13,Pune,West
+5429,05-03-2024,Mouse,Electronics,5,262,1310,183.57,Bangalore,South
+5430,06-03-2024,Notebook,Office Supplies,1,1033,1033,158.11,Bangalore,South
+5431,07-03-2024,Notebook,Office Supplies,4,748,2992,386.48,Chennai,South
+5432,08-03-2024,Office Desk,Furniture,3,98,294,55.07,Hyderabad,South
+5433,09-03-2024,Mouse,Electronics,3,1103,3309,813.14,Delhi,North
+5434,10-03-2024,Notebook,Office Supplies,5,377,1885,265.13,Delhi,North
+5435,11-03-2024,Laptop,Electronics,3,1370,4110,618.82,Bangalore,South
+5436,12-03-2024,Keyboard,Electronics,1,1337,1337,224.43,Chennai,South
+5437,13-03-2024,Keyboard,Electronics,4,1231,4924,793.65,Pune,West
+5438,14-03-2024,Headphones,Electronics,3,1252,3756,693.67,Bangalore,South
+5439,15-03-2024,Desk Chair,Furniture,2,413,826,67.12,Chennai,South
+5440,16-03-2024,Laptop,Electronics,1,1492,1492,353.82,Chennai,South
+5441,17-03-2024,Notebook,Office Supplies,1,1438,1438,198.73,Mumbai,West
+5442,18-03-2024,Keyboard,Electronics,5,151,755,61.36,Mumbai,West
+5443,19-03-2024,Desk Chair,Furniture,5,1096,5480,279.83,Bangalore,South
+5444,20-03-2024,Printer,Office Supplies,4,1049,4196,302.09,Chennai,South
+5445,21-03-2024,Printer,Office Supplies,5,1119,5595,1157.26,Mumbai,West
+5446,22-03-2024,Keyboard,Electronics,5,1362,6810,1609.13,Pune,West
+5447,23-03-2024,Printer,Office Supplies,2,498,996,150.59,Chennai,South
+5448,24-03-2024,Mouse,Electronics,5,1410,7050,951.73,Delhi,North
+5449,25-03-2024,Mouse,Electronics,4,1257,5028,1229.57,Mumbai,West
+5450,26-03-2024,Keyboard,Electronics,2,1415,2830,181.43,Chennai,South
+5451,27-03-2024,Notebook,Office Supplies,5,1342,6710,625.98,Pune,West
+5452,28-03-2024,Smartphone,Electronics,3,369,1107,163.3,Bangalore,South
+5453,29-03-2024,Laptop,Electronics,5,375,1875,278.39,Chennai,South
+5454,30-03-2024,Office Desk,Furniture,3,832,2496,137.74,Chennai,South
+5455,31-03-2024,Smartphone,Electronics,3,1107,3321,619.96,Hyderabad,South
+5456,01-04-2024,Desk Chair,Furniture,2,1488,2976,607.7,Bangalore,South
+5457,02-04-2024,Keyboard,Electronics,2,644,1288,90.24,Delhi,North
+5458,03-04-2024,Printer,Office Supplies,5,1336,6680,1033.47,Hyderabad,South
+5459,04-04-2024,Notebook,Office Supplies,1,1300,1300,295.56,Delhi,North
+5460,05-04-2024,Smartphone,Electronics,3,1116,3348,323.82,Chennai,South
+5461,06-04-2024,Smartphone,Electronics,3,328,984,201.51,Pune,West
+5462,07-04-2024,Laptop,Electronics,1,1433,1433,124.64,Chennai,South
+5463,08-04-2024,Printer,Office Supplies,2,61,122,11.35,Pune,West
+5464,09-04-2024,Headphones,Electronics,4,239,956,230.85,Bangalore,South
+5465,10-04-2024,Headphones,Electronics,3,1295,3885,582.78,Delhi,North
+5466,11-04-2024,Keyboard,Electronics,3,130,390,51.28,Delhi,North
+5467,12-04-2024,Office Desk,Furniture,2,1405,2810,514.45,Chennai,South
+5468,13-04-2024,Laptop,Electronics,2,370,740,111.44,Pune,West
+5469,14-04-2024,Desk Chair,Furniture,4,240,960,128.99,Pune,West
+5470,15-04-2024,Headphones,Electronics,2,832,1664,364.17,Bangalore,South
+5471,16-04-2024,Office Desk,Furniture,1,1145,1145,274.03,Bangalore,South
+5472,17-04-2024,Laptop,Electronics,1,471,471,44.82,Hyderabad,South
+5473,18-04-2024,Keyboard,Electronics,5,664,3320,768.51,Delhi,North
+5474,19-04-2024,Notebook,Office Supplies,3,369,1107,208.57,Pune,West
+5475,20-04-2024,Smartphone,Electronics,2,1215,2430,428.65,Hyderabad,South
+5476,21-04-2024,Notebook,Office Supplies,1,1108,1108,272.22,Mumbai,West
+5477,22-04-2024,Smartphone,Electronics,2,1240,2480,165.55,Hyderabad,South
+5478,23-04-2024,Office Desk,Furniture,1,813,813,165.79,Mumbai,West
+5479,24-04-2024,Printer,Office Supplies,4,491,1964,345.51,Hyderabad,South
+5480,25-04-2024,Laptop,Electronics,5,1358,6790,1212.5,Pune,West
+5481,26-04-2024,Notebook,Office Supplies,2,88,176,18.25,Chennai,South
+5482,27-04-2024,Laptop,Electronics,4,1133,4532,235.82,Delhi,North
+5483,28-04-2024,Notebook,Office Supplies,3,493,1479,161.12,Delhi,North
+5484,29-04-2024,Printer,Office Supplies,5,909,4545,865.84,Chennai,South
+5485,30-04-2024,Headphones,Electronics,5,223,1115,56.89,Chennai,South
+5486,01-05-2024,Notebook,Office Supplies,2,1276,2552,195.59,Pune,West
+5487,02-05-2024,Monitor,Electronics,4,914,3656,812.8,Pune,West
+5488,03-05-2024,Laptop,Electronics,2,804,1608,257.74,Bangalore,South
+5489,04-05-2024,Mouse,Electronics,5,513,2565,443.54,Pune,West
+5490,05-05-2024,Monitor,Electronics,1,800,800,129.41,Delhi,North
+5491,06-05-2024,Smartphone,Electronics,4,762,3048,447.64,Pune,West
+5492,07-05-2024,Laptop,Electronics,5,400,2000,364.76,Hyderabad,South
+5493,08-05-2024,Office Desk,Furniture,1,285,285,67,Chennai,South
+5494,09-05-2024,Desk Chair,Furniture,5,262,1310,311.18,Mumbai,West
+5495,10-05-2024,Keyboard,Electronics,1,73,73,13.67,Hyderabad,South
+5496,11-05-2024,Keyboard,Electronics,1,1103,1103,236.36,Bangalore,South
+5497,12-05-2024,Notebook,Office Supplies,4,232,928,222.69,Delhi,North
+5498,13-05-2024,Mouse,Electronics,2,622,1244,283.27,Bangalore,South
+5499,14-05-2024,Notebook,Office Supplies,5,994,4970,1093.33,Delhi,North
+5500,15-05-2024,Desk Chair,Furniture,1,156,156,34.18,Chennai,South
+5501,16-05-2024,Laptop,Electronics,3,640,1920,133.49,Hyderabad,South
+5502,17-05-2024,Desk Chair,Furniture,2,1207,2414,446.35,Pune,West
+5503,18-05-2024,Monitor,Electronics,3,1167,3501,721.35,Bangalore,South
+5504,19-05-2024,Keyboard,Electronics,5,881,4405,223.81,Chennai,South
+5505,20-05-2024,Monitor,Electronics,4,742,2968,664.82,Chennai,South
+5506,21-05-2024,Monitor,Electronics,4,587,2348,122.42,Delhi,North
+5507,22-05-2024,Desk Chair,Furniture,1,1202,1202,165.85,Mumbai,West
+5508,23-05-2024,Laptop,Electronics,2,213,426,89.97,Delhi,North
+5509,24-05-2024,Keyboard,Electronics,5,1444,7220,1527.43,Delhi,North
+5510,25-05-2024,Desk Chair,Furniture,2,818,1636,360.94,Delhi,North
+5511,26-05-2024,Smartphone,Electronics,3,893,2679,504.71,Pune,West
+5512,27-05-2024,Headphones,Electronics,3,1165,3495,751.33,Chennai,South
+5513,28-05-2024,Smartphone,Electronics,3,74,222,29.11,Bangalore,South
+5514,29-05-2024,Mouse,Electronics,1,338,338,38.13,Chennai,South
+5515,30-05-2024,Mouse,Electronics,2,1496,2992,520.09,Delhi,North
+5516,31-05-2024,Mouse,Electronics,4,539,2156,311.35,Chennai,South
+5517,01-06-2024,Keyboard,Electronics,1,786,786,145.05,Delhi,North
+5518,02-06-2024,Monitor,Electronics,2,311,622,41.95,Hyderabad,South
+5519,03-06-2024,Office Desk,Furniture,3,1442,4326,1038.11,Delhi,North
+5520,04-06-2024,Office Desk,Furniture,2,1238,2476,459.06,Chennai,South
+5521,05-06-2024,Keyboard,Electronics,4,469,1876,211.77,Chennai,South
+5522,06-06-2024,Printer,Office Supplies,4,262,1048,236.57,Mumbai,West
+5523,07-06-2024,Laptop,Electronics,5,1259,6295,316.05,Bangalore,South
+5524,08-06-2024,Office Desk,Furniture,4,962,3848,320.21,Delhi,North
+5525,09-06-2024,Printer,Office Supplies,2,550,1100,243.36,Delhi,North
+5526,10-06-2024,Keyboard,Electronics,2,389,778,43.21,Chennai,South
+5527,11-06-2024,Mouse,Electronics,1,411,411,77.18,Pune,West
+5528,12-06-2024,Desk Chair,Furniture,4,468,1872,336.92,Hyderabad,South
+5529,13-06-2024,Office Desk,Furniture,4,127,508,114.31,Bangalore,South
+5530,14-06-2024,Office Desk,Furniture,5,1284,6420,1512.01,Mumbai,West
+5531,15-06-2024,Headphones,Electronics,5,1259,6295,1218.27,Bangalore,South
+5532,16-06-2024,Mouse,Electronics,5,179,895,72.33,Chennai,South
+5533,17-06-2024,Printer,Office Supplies,3,1432,4296,515.36,Mumbai,West
+5534,18-06-2024,Headphones,Electronics,1,1158,1158,96.75,Delhi,North
+5535,19-06-2024,Smartphone,Electronics,4,574,2296,432.76,Hyderabad,South
+5536,20-06-2024,Laptop,Electronics,5,727,3635,632.94,Chennai,South
+5537,21-06-2024,Desk Chair,Furniture,2,1274,2548,459.28,Chennai,South
+5538,22-06-2024,Notebook,Office Supplies,1,1332,1332,294.17,Mumbai,West
+5539,23-06-2024,Headphones,Electronics,2,85,170,19.69,Bangalore,South
+5540,24-06-2024,Notebook,Office Supplies,4,576,2304,179.52,Pune,West
+5541,25-06-2024,Smartphone,Electronics,1,266,266,66.15,Bangalore,South
+5542,26-06-2024,Office Desk,Furniture,2,1293,2586,360.17,Pune,West
+5543,27-06-2024,Smartphone,Electronics,5,301,1505,92.12,Mumbai,West
+5544,28-06-2024,Keyboard,Electronics,2,787,1574,171.51,Hyderabad,South
+5545,29-06-2024,Keyboard,Electronics,2,609,1218,210.36,Mumbai,West
+5546,30-06-2024,Printer,Office Supplies,3,386,1158,172.16,Mumbai,West
+5547,01-07-2024,Desk Chair,Furniture,1,1417,1417,306.12,Bangalore,South
+5548,02-07-2024,Keyboard,Electronics,1,123,123,23.63,Chennai,South
+5549,03-07-2024,Smartphone,Electronics,3,869,2607,636.08,Pune,West
+5550,04-07-2024,Monitor,Electronics,4,202,808,99.19,Mumbai,West
+5551,05-07-2024,Headphones,Electronics,2,787,1574,118.5,Delhi,North
+5552,06-07-2024,Desk Chair,Furniture,2,475,950,93.4,Mumbai,West
+5553,07-07-2024,Headphones,Electronics,1,1022,1022,250.64,Mumbai,West
+5554,08-07-2024,Office Desk,Furniture,5,456,2280,534.69,Pune,West
+5555,09-07-2024,Monitor,Electronics,5,1260,6300,1398.6,Mumbai,West
+5556,10-07-2024,Keyboard,Electronics,4,1367,5468,1295.31,Delhi,North
+5557,11-07-2024,Keyboard,Electronics,3,1203,3609,204.01,Bangalore,South
+5558,12-07-2024,Desk Chair,Furniture,3,441,1323,207.32,Hyderabad,South
+5559,13-07-2024,Printer,Office Supplies,4,1324,5296,1285.29,Hyderabad,South
+5560,14-07-2024,Headphones,Electronics,1,704,704,145.47,Delhi,North
+5561,15-07-2024,Desk Chair,Furniture,5,1098,5490,1127.63,Pune,West
+5562,16-07-2024,Notebook,Office Supplies,5,814,4070,623.03,Delhi,North
+5563,17-07-2024,Notebook,Office Supplies,4,890,3560,452.77,Pune,West
+5564,18-07-2024,Laptop,Electronics,2,772,1544,345.94,Delhi,North
+5565,19-07-2024,Notebook,Office Supplies,1,150,150,26.08,Hyderabad,South
+5566,20-07-2024,Printer,Office Supplies,1,1415,1415,340.64,Delhi,North
+5567,21-07-2024,Desk Chair,Furniture,1,1147,1147,180.17,Hyderabad,South
+5568,22-07-2024,Monitor,Electronics,2,1107,2214,552.56,Chennai,South
+5569,23-07-2024,Desk Chair,Furniture,4,558,2232,553.41,Pune,West
+5570,24-07-2024,Desk Chair,Furniture,2,936,1872,321.49,Bangalore,South
+5571,25-07-2024,Keyboard,Electronics,2,747,1494,190.51,Chennai,South
+5572,26-07-2024,Keyboard,Electronics,1,1033,1033,136.76,Hyderabad,South
+5573,27-07-2024,Keyboard,Electronics,3,1201,3603,614.06,Chennai,South
+5574,28-07-2024,Monitor,Electronics,2,1283,2566,502.47,Delhi,North
+5575,29-07-2024,Smartphone,Electronics,3,1354,4062,479.17,Bangalore,South
+5576,30-07-2024,Smartphone,Electronics,3,118,354,42.94,Bangalore,South
+5577,31-07-2024,Mouse,Electronics,4,123,492,75.36,Mumbai,West
+5578,01-08-2024,Printer,Office Supplies,1,1342,1342,120.3,Hyderabad,South
+5579,02-08-2024,Smartphone,Electronics,3,790,2370,342.75,Delhi,North
+5580,03-08-2024,Printer,Office Supplies,4,835,3340,608.48,Bangalore,South
+5581,04-08-2024,Notebook,Office Supplies,2,153,306,21.8,Hyderabad,South
+5582,05-08-2024,Printer,Office Supplies,4,1249,4996,666.03,Hyderabad,South
+5583,06-08-2024,Office Desk,Furniture,1,1481,1481,170.59,Pune,West
+5584,07-08-2024,Mouse,Electronics,2,96,192,43.22,Pune,West
+5585,08-08-2024,Office Desk,Furniture,4,459,1836,428.9,Pune,West
+5586,09-08-2024,Office Desk,Furniture,1,271,271,19.35,Hyderabad,South
+5587,10-08-2024,Keyboard,Electronics,2,1058,2116,348.32,Delhi,North
+5588,11-08-2024,Notebook,Office Supplies,5,286,1430,93.44,Hyderabad,South
+5589,12-08-2024,Keyboard,Electronics,2,1009,2018,495.57,Mumbai,West
+5590,13-08-2024,Monitor,Electronics,3,767,2301,553.86,Mumbai,West
+5591,14-08-2024,Headphones,Electronics,3,1021,3063,160.25,Pune,West
+5592,15-08-2024,Printer,Office Supplies,1,308,308,60,Pune,West
+5593,16-08-2024,Monitor,Electronics,4,192,768,81.35,Chennai,South
+5594,17-08-2024,Smartphone,Electronics,3,968,2904,464.98,Bangalore,South
+5595,18-08-2024,Smartphone,Electronics,5,1310,6550,1338.45,Chennai,South
+5596,19-08-2024,Monitor,Electronics,3,81,243,30.59,Delhi,North
+5597,20-08-2024,Headphones,Electronics,1,664,664,129.26,Pune,West
+5598,21-08-2024,Keyboard,Electronics,2,603,1206,211.51,Chennai,South
+5599,22-08-2024,Desk Chair,Furniture,2,1099,2198,409.85,Bangalore,South
+5600,23-08-2024,Office Desk,Furniture,1,562,562,81.98,Mumbai,West
+5601,24-08-2024,Smartphone,Electronics,1,497,497,50,Delhi,North
+5602,25-08-2024,Smartphone,Electronics,5,210,1050,162.58,Mumbai,West
+5603,26-08-2024,Office Desk,Furniture,4,868,3472,603.91,Mumbai,West
+5604,27-08-2024,Desk Chair,Furniture,5,337,1685,309.22,Hyderabad,South
+5605,28-08-2024,Printer,Office Supplies,3,664,1992,249.85,Bangalore,South
+5606,29-08-2024,Printer,Office Supplies,2,178,356,78,Hyderabad,South
+5607,30-08-2024,Office Desk,Furniture,3,463,1389,100.9,Hyderabad,South
+5608,31-08-2024,Monitor,Electronics,3,1254,3762,463.48,Bangalore,South
+5609,01-09-2024,Printer,Office Supplies,4,1409,5636,979.58,Hyderabad,South
+5610,02-09-2024,Printer,Office Supplies,1,1053,1053,166.31,Bangalore,South
+5611,03-09-2024,Desk Chair,Furniture,2,126,252,17.7,Bangalore,South
+5612,04-09-2024,Notebook,Office Supplies,3,358,1074,172.15,Chennai,South
+5613,05-09-2024,Printer,Office Supplies,1,283,283,35.27,Pune,West
+5614,06-09-2024,Printer,Office Supplies,1,1332,1332,276.54,Pune,West
+5615,07-09-2024,Smartphone,Electronics,3,192,576,89.49,Pune,West
+5616,08-09-2024,Keyboard,Electronics,2,478,956,162.79,Hyderabad,South
+5617,09-09-2024,Monitor,Electronics,4,478,1912,317.58,Hyderabad,South
+5618,10-09-2024,Notebook,Office Supplies,2,1270,2540,594.76,Delhi,North
+5619,11-09-2024,Notebook,Office Supplies,2,217,434,22.96,Chennai,South
+5620,12-09-2024,Monitor,Electronics,4,559,2236,364.05,Bangalore,South
+5621,13-09-2024,Office Desk,Furniture,4,1316,5264,866.27,Bangalore,South
+5622,14-09-2024,Printer,Office Supplies,2,64,128,31.96,Chennai,South
+5623,15-09-2024,Smartphone,Electronics,2,248,496,70.65,Bangalore,South
+5624,16-09-2024,Notebook,Office Supplies,2,172,344,47.49,Delhi,North
+5625,17-09-2024,Laptop,Electronics,3,1127,3381,556.41,Pune,West
+5626,18-09-2024,Printer,Office Supplies,2,771,1542,256.02,Mumbai,West
+5627,19-09-2024,Notebook,Office Supplies,1,785,785,73.61,Bangalore,South
+5628,20-09-2024,Notebook,Office Supplies,1,1417,1417,75.42,Bangalore,South
+5629,21-09-2024,Smartphone,Electronics,3,314,942,135.7,Delhi,North
+5630,22-09-2024,Printer,Office Supplies,4,538,2152,174.96,Pune,West
+5631,23-09-2024,Mouse,Electronics,2,671,1342,283.73,Mumbai,West
+5632,24-09-2024,Printer,Office Supplies,3,502,1506,306.55,Bangalore,South
+5633,25-09-2024,Monitor,Electronics,2,370,740,100.27,Delhi,North
+5634,26-09-2024,Headphones,Electronics,1,527,527,129.72,Bangalore,South
+5635,27-09-2024,Smartphone,Electronics,3,1426,4278,372.21,Bangalore,South
+5636,28-09-2024,Desk Chair,Furniture,1,727,727,113.73,Delhi,North
+5637,29-09-2024,Notebook,Office Supplies,3,434,1302,239.12,Chennai,South
+5638,30-09-2024,Monitor,Electronics,1,291,291,31.73,Chennai,South
+5639,01-10-2024,Headphones,Electronics,3,346,1038,186.12,Delhi,North
+5640,02-10-2024,Monitor,Electronics,1,634,634,84.77,Hyderabad,South
+5641,03-10-2024,Headphones,Electronics,4,1122,4488,643.99,Chennai,South
+5642,04-10-2024,Smartphone,Electronics,4,697,2788,594.82,Mumbai,West
+5643,05-10-2024,Headphones,Electronics,4,391,1564,295.69,Delhi,North
+5644,06-10-2024,Smartphone,Electronics,2,495,990,175.91,Hyderabad,South
+5645,07-10-2024,Laptop,Electronics,5,809,4045,244.29,Chennai,South
+5646,08-10-2024,Mouse,Electronics,1,1321,1321,283.07,Delhi,North
+5647,09-10-2024,Keyboard,Electronics,3,938,2814,332.7,Delhi,North
+5648,10-10-2024,Mouse,Electronics,1,1029,1029,209.99,Bangalore,South
+5649,11-10-2024,Notebook,Office Supplies,4,524,2096,368.03,Bangalore,South
+5650,12-10-2024,Monitor,Electronics,3,354,1062,257.28,Chennai,South
+5651,13-10-2024,Printer,Office Supplies,4,652,2608,527.72,Chennai,South
+5652,14-10-2024,Keyboard,Electronics,1,1091,1091,72.9,Hyderabad,South
+5653,15-10-2024,Monitor,Electronics,5,812,4060,659.17,Mumbai,West
+5654,16-10-2024,Mouse,Electronics,4,520,2080,155.44,Delhi,North
+5655,17-10-2024,Notebook,Office Supplies,3,679,2037,114.48,Pune,West
+5656,18-10-2024,Desk Chair,Furniture,3,559,1677,305.4,Delhi,North
+5657,19-10-2024,Mouse,Electronics,2,1366,2732,274.11,Pune,West
+5658,20-10-2024,Keyboard,Electronics,4,549,2196,499.21,Hyderabad,South
+5659,21-10-2024,Desk Chair,Furniture,2,881,1762,359.35,Mumbai,West
+5660,22-10-2024,Headphones,Electronics,2,1424,2848,461.74,Hyderabad,South
+5661,23-10-2024,Office Desk,Furniture,4,830,3320,241.27,Chennai,South
+5662,24-10-2024,Smartphone,Electronics,1,944,944,218.66,Hyderabad,South
+5663,25-10-2024,Notebook,Office Supplies,4,876,3504,862.8,Hyderabad,South
+5664,26-10-2024,Mouse,Electronics,1,326,326,41.47,Chennai,South
+5665,27-10-2024,Mouse,Electronics,4,85,340,32.84,Mumbai,West
+5666,28-10-2024,Mouse,Electronics,1,633,633,77.3,Hyderabad,South
+5667,29-10-2024,Mouse,Electronics,3,1300,3900,280.81,Pune,West
+5668,30-10-2024,Headphones,Electronics,1,1201,1201,161.02,Delhi,North
+5669,31-10-2024,Desk Chair,Furniture,5,1195,5975,1245.55,Bangalore,South
+5670,01-11-2024,Laptop,Electronics,1,940,940,173.38,Mumbai,West
+5671,02-11-2024,Notebook,Office Supplies,4,116,464,69.18,Hyderabad,South
+5672,03-11-2024,Laptop,Electronics,3,1352,4056,686.14,Delhi,North
+5673,04-11-2024,Headphones,Electronics,5,1240,6200,604.15,Chennai,South
+5674,05-11-2024,Laptop,Electronics,4,1487,5948,1346.94,Delhi,North
+5675,06-11-2024,Mouse,Electronics,4,1418,5672,451,Mumbai,West
+5676,07-11-2024,Notebook,Office Supplies,5,912,4560,539.55,Mumbai,West
+5677,08-11-2024,Mouse,Electronics,4,498,1992,369.06,Chennai,South
+5678,09-11-2024,Smartphone,Electronics,2,1458,2916,544.11,Delhi,North
+5679,10-11-2024,Printer,Office Supplies,2,1215,2430,351.36,Bangalore,South
+5680,11-11-2024,Laptop,Electronics,5,315,1575,248.94,Hyderabad,South
+5681,12-11-2024,Office Desk,Furniture,2,101,202,27.24,Hyderabad,South
+5682,13-11-2024,Keyboard,Electronics,2,887,1774,170.35,Mumbai,West
+5683,14-11-2024,Printer,Office Supplies,5,966,4830,277.86,Mumbai,West
+5684,15-11-2024,Printer,Office Supplies,2,60,120,15.17,Chennai,South
+5685,16-11-2024,Printer,Office Supplies,1,1468,1468,257.28,Pune,West
+5686,17-11-2024,Keyboard,Electronics,1,1325,1325,326.43,Mumbai,West
+5687,18-11-2024,Monitor,Electronics,3,650,1950,409.75,Mumbai,West
+5688,19-11-2024,Desk Chair,Furniture,1,571,571,76.51,Bangalore,South
+5689,20-11-2024,Keyboard,Electronics,1,242,242,59.02,Chennai,South
+5690,21-11-2024,Notebook,Office Supplies,2,1450,2900,154.15,Mumbai,West
+5691,22-11-2024,Mouse,Electronics,3,946,2838,315,Bangalore,South
+5692,23-11-2024,Monitor,Electronics,4,756,3024,534.32,Mumbai,West
+5693,24-11-2024,Smartphone,Electronics,5,632,3160,388.38,Bangalore,South
+5694,25-11-2024,Smartphone,Electronics,5,1202,6010,394.12,Pune,West
+5695,26-11-2024,Headphones,Electronics,3,973,2919,240.28,Bangalore,South
+5696,27-11-2024,Printer,Office Supplies,4,615,2460,260.85,Bangalore,South
+5697,28-11-2024,Smartphone,Electronics,2,622,1244,279.15,Mumbai,West
+5698,29-11-2024,Monitor,Electronics,3,815,2445,580.66,Mumbai,West
+5699,30-11-2024,Monitor,Electronics,4,609,2436,315.33,Chennai,South
+5700,01-12-2024,Mouse,Electronics,4,597,2388,161.18,Delhi,North
+5701,02-12-2024,Headphones,Electronics,5,194,970,145.11,Chennai,South
+5702,03-12-2024,Office Desk,Furniture,3,1305,3915,292.91,Hyderabad,South
+5703,04-12-2024,Laptop,Electronics,1,357,357,38.81,Bangalore,South
+5704,05-12-2024,Monitor,Electronics,3,103,309,54.31,Chennai,South
+5705,06-12-2024,Smartphone,Electronics,5,782,3910,532.1,Chennai,South
+5706,07-12-2024,Monitor,Electronics,3,932,2796,442.01,Bangalore,South
+5707,08-12-2024,Notebook,Office Supplies,3,1159,3477,684.93,Delhi,North
+5708,09-12-2024,Printer,Office Supplies,2,91,182,44.4,Pune,West
+5709,10-12-2024,Headphones,Electronics,5,1025,5125,592.37,Pune,West
+5710,11-12-2024,Smartphone,Electronics,2,1448,2896,407.73,Bangalore,South
+5711,12-12-2024,Smartphone,Electronics,1,84,84,8.22,Mumbai,West
+5712,13-12-2024,Notebook,Office Supplies,5,666,3330,612.78,Delhi,North
+5713,14-12-2024,Printer,Office Supplies,5,230,1150,97.1,Mumbai,West
+5714,15-12-2024,Printer,Office Supplies,3,1452,4356,848.6,Delhi,North
+5715,16-12-2024,Headphones,Electronics,2,593,1186,113.24,Pune,West
+5716,17-12-2024,Printer,Office Supplies,3,609,1827,279.61,Bangalore,South
+5717,18-12-2024,Desk Chair,Furniture,1,987,987,162.4,Delhi,North
+5718,19-12-2024,Headphones,Electronics,1,1447,1447,228.72,Bangalore,South
+5719,20-12-2024,Office Desk,Furniture,5,1489,7445,416.86,Chennai,South
+5720,21-12-2024,Laptop,Electronics,4,216,864,134.22,Delhi,North
+5721,22-12-2024,Smartphone,Electronics,3,699,2097,375.56,Delhi,North
+5722,23-12-2024,Printer,Office Supplies,3,88,264,36.45,Delhi,North
+5723,24-12-2024,Desk Chair,Furniture,2,208,416,91.77,Pune,West
+5724,25-12-2024,Monitor,Electronics,5,635,3175,474.7,Pune,West
+5725,26-12-2024,Smartphone,Electronics,4,162,648,104.04,Delhi,North
+5726,27-12-2024,Mouse,Electronics,1,1133,1133,227.55,Bangalore,South
+5727,28-12-2024,Keyboard,Electronics,3,1338,4014,253.71,Hyderabad,South
+5728,29-12-2024,Headphones,Electronics,1,1495,1495,342.4,Bangalore,South
+5729,30-12-2024,Smartphone,Electronics,3,339,1017,174.22,Hyderabad,South
+5730,31-12-2024,Notebook,Office Supplies,4,1183,4732,1089.73,Pune,West
+5731,01-01-2025,Smartphone,Electronics,2,1327,2654,288.66,Delhi,North
+5732,02-01-2025,Mouse,Electronics,2,882,1764,279.83,Chennai,South
+5733,03-01-2025,Desk Chair,Furniture,1,1143,1143,155.32,Hyderabad,South
+5734,04-01-2025,Printer,Office Supplies,1,580,580,122.87,Chennai,South
+5735,05-01-2025,Mouse,Electronics,4,887,3548,419.32,Delhi,North
+5736,06-01-2025,Printer,Office Supplies,5,539,2695,524.98,Pune,West
+5737,07-01-2025,Desk Chair,Furniture,5,1124,5620,994.88,Delhi,North
+5738,08-01-2025,Office Desk,Furniture,3,784,2352,136.39,Pune,West
+5739,09-01-2025,Mouse,Electronics,3,1257,3771,401.56,Pune,West
+5740,10-01-2025,Mouse,Electronics,2,489,978,90.9,Mumbai,West
+5741,11-01-2025,Keyboard,Electronics,1,1359,1359,106.29,Mumbai,West
+5742,12-01-2025,Monitor,Electronics,4,512,2048,437.77,Chennai,South
+5743,13-01-2025,Keyboard,Electronics,1,1271,1271,290.47,Pune,West
+5744,14-01-2025,Laptop,Electronics,5,645,3225,169.33,Delhi,North
+5745,15-01-2025,Monitor,Electronics,5,788,3940,613.05,Hyderabad,South
+5746,16-01-2025,Notebook,Office Supplies,3,1023,3069,670.13,Mumbai,West
+5747,17-01-2025,Mouse,Electronics,5,128,640,32.32,Delhi,North
+5748,18-01-2025,Mouse,Electronics,1,1480,1480,307.19,Chennai,South
+5749,19-01-2025,Notebook,Office Supplies,1,1497,1497,234.62,Pune,West
+5750,20-01-2025,Mouse,Electronics,4,1063,4252,559.55,Mumbai,West
+5751,21-01-2025,Smartphone,Electronics,2,430,860,163.39,Delhi,North
+5752,22-01-2025,Desk Chair,Furniture,5,1313,6565,1411.71,Delhi,North
+5753,23-01-2025,Notebook,Office Supplies,5,652,3260,185.58,Pune,West
+5754,24-01-2025,Laptop,Electronics,1,585,585,35.53,Hyderabad,South
+5755,25-01-2025,Desk Chair,Furniture,5,1067,5335,560.67,Bangalore,South
+5756,26-01-2025,Keyboard,Electronics,1,1239,1239,202.03,Hyderabad,South
+5757,27-01-2025,Headphones,Electronics,2,739,1478,240.9,Chennai,South
+5758,28-01-2025,Smartphone,Electronics,1,1097,1097,201.38,Pune,West
+5759,29-01-2025,Mouse,Electronics,1,515,515,116.81,Pune,West
+5760,30-01-2025,Office Desk,Furniture,1,1208,1208,112.25,Hyderabad,South
+5761,31-01-2025,Monitor,Electronics,3,597,1791,313.91,Hyderabad,South
+5762,01-02-2025,Smartphone,Electronics,3,359,1077,64.69,Chennai,South
+5763,02-02-2025,Office Desk,Furniture,5,614,3070,398.15,Bangalore,South
+5764,03-02-2025,Laptop,Electronics,3,850,2550,135.37,Pune,West
+5765,04-02-2025,Smartphone,Electronics,4,154,616,78.12,Bangalore,South
+5766,05-02-2025,Printer,Office Supplies,2,1400,2800,647.25,Mumbai,West
+5767,06-02-2025,Monitor,Electronics,1,116,116,12.47,Bangalore,South
+5768,07-02-2025,Headphones,Electronics,5,1484,7420,1681.34,Bangalore,South
+5769,08-02-2025,Desk Chair,Furniture,3,614,1842,376.27,Mumbai,West
+5770,09-02-2025,Monitor,Electronics,2,203,406,69.4,Hyderabad,South
+5771,10-02-2025,Monitor,Electronics,5,1418,7090,635.59,Mumbai,West
+5772,11-02-2025,Keyboard,Electronics,4,376,1504,144.25,Chennai,South
+5773,12-02-2025,Desk Chair,Furniture,3,586,1758,289.56,Hyderabad,South
+5774,13-02-2025,Laptop,Electronics,5,122,610,70.06,Chennai,South
+5775,14-02-2025,Mouse,Electronics,3,347,1041,188.21,Bangalore,South
+5776,15-02-2025,Monitor,Electronics,1,900,900,147.5,Hyderabad,South
+5777,16-02-2025,Smartphone,Electronics,1,1262,1262,106.63,Hyderabad,South
+5778,17-02-2025,Laptop,Electronics,3,683,2049,398.37,Pune,West
+5779,18-02-2025,Notebook,Office Supplies,1,1149,1149,103.61,Hyderabad,South
+5780,19-02-2025,Laptop,Electronics,2,882,1764,95.64,Mumbai,West
+5781,20-02-2025,Monitor,Electronics,3,1089,3267,574.04,Delhi,North
+5782,21-02-2025,Desk Chair,Furniture,5,526,2630,457.82,Mumbai,West
+5783,22-02-2025,Laptop,Electronics,1,1181,1181,204.26,Mumbai,West
+5784,23-02-2025,Monitor,Electronics,5,895,4475,995.9,Bangalore,South
+5785,24-02-2025,Office Desk,Furniture,1,805,805,137.82,Mumbai,West
+5786,25-02-2025,Smartphone,Electronics,1,172,172,17.53,Chennai,South
+5787,26-02-2025,Monitor,Electronics,1,892,892,57.99,Bangalore,South
+5788,27-02-2025,Keyboard,Electronics,2,223,446,50.75,Delhi,North
+5789,28-02-2025,Monitor,Electronics,4,1151,4604,1001.51,Hyderabad,South
+5790,01-03-2025,Mouse,Electronics,3,196,588,47.88,Chennai,South
+5791,02-03-2025,Keyboard,Electronics,4,125,500,83.64,Pune,West
+5792,03-03-2025,Desk Chair,Furniture,2,1194,2388,483.01,Delhi,North
+5793,04-03-2025,Headphones,Electronics,1,1035,1035,239.84,Delhi,North
+5794,05-03-2025,Notebook,Office Supplies,5,1200,6000,1189.86,Bangalore,South
+5795,06-03-2025,Notebook,Office Supplies,3,932,2796,591.18,Hyderabad,South
+5796,07-03-2025,Mouse,Electronics,3,570,1710,386.17,Mumbai,West
+5797,08-03-2025,Notebook,Office Supplies,3,831,2493,228.41,Chennai,South
+5798,09-03-2025,Office Desk,Furniture,1,1238,1238,181.85,Delhi,North
+5799,10-03-2025,Desk Chair,Furniture,3,633,1899,461.22,Pune,West
+5800,11-03-2025,Keyboard,Electronics,5,736,3680,478.76,Hyderabad,South
+5801,12-03-2025,Smartphone,Electronics,4,1226,4904,698.44,Bangalore,South
+5802,13-03-2025,Headphones,Electronics,1,563,563,46.92,Pune,West
+5803,14-03-2025,Headphones,Electronics,3,596,1788,368.39,Mumbai,West
+5804,15-03-2025,Laptop,Electronics,1,1428,1428,260.01,Bangalore,South
+5805,16-03-2025,Desk Chair,Furniture,3,368,1104,262.3,Hyderabad,South
+5806,17-03-2025,Headphones,Electronics,4,1281,5124,475.69,Mumbai,West
+5807,18-03-2025,Mouse,Electronics,1,766,766,122.08,Mumbai,West
+5808,19-03-2025,Headphones,Electronics,4,595,2380,160.95,Bangalore,South
+5809,20-03-2025,Notebook,Office Supplies,1,776,776,114.29,Chennai,South
+5810,21-03-2025,Desk Chair,Furniture,5,665,3325,233.4,Hyderabad,South
+5811,22-03-2025,Smartphone,Electronics,3,597,1791,212.76,Delhi,North
+5812,23-03-2025,Desk Chair,Furniture,4,1461,5844,527.87,Bangalore,South
+5813,24-03-2025,Laptop,Electronics,1,942,942,221.82,Mumbai,West
+5814,25-03-2025,Mouse,Electronics,4,482,1928,417.07,Hyderabad,South
+5815,26-03-2025,Mouse,Electronics,4,1199,4796,845.02,Pune,West
+5816,27-03-2025,Desk Chair,Furniture,3,484,1452,313.85,Bangalore,South
+5817,28-03-2025,Printer,Office Supplies,3,68,204,22.05,Mumbai,West
+5818,29-03-2025,Keyboard,Electronics,4,1157,4628,737.26,Pune,West
+5819,30-03-2025,Desk Chair,Furniture,1,93,93,16.79,Chennai,South
+5820,31-03-2025,Laptop,Electronics,3,662,1986,238.81,Hyderabad,South
+5821,01-04-2025,Desk Chair,Furniture,1,427,427,49.93,Bangalore,South
+5822,02-04-2025,Laptop,Electronics,3,979,2937,152.72,Mumbai,West
+5823,03-04-2025,Office Desk,Furniture,3,672,2016,442.51,Chennai,South
+5824,04-04-2025,Monitor,Electronics,1,885,885,116.5,Pune,West
+5825,05-04-2025,Keyboard,Electronics,3,1331,3993,545.46,Mumbai,West
+5826,06-04-2025,Office Desk,Furniture,1,630,630,109.34,Mumbai,West
+5827,07-04-2025,Smartphone,Electronics,5,1140,5700,462.42,Pune,West
+5828,08-04-2025,Smartphone,Electronics,4,1368,5472,491.04,Chennai,South
+5829,09-04-2025,Headphones,Electronics,1,128,128,30.76,Hyderabad,South
+5830,10-04-2025,Printer,Office Supplies,5,1288,6440,1519.26,Hyderabad,South
+5831,11-04-2025,Smartphone,Electronics,1,420,420,60.83,Chennai,South
+5832,12-04-2025,Desk Chair,Furniture,4,952,3808,644.15,Delhi,North
+5833,13-04-2025,Headphones,Electronics,3,676,2028,451.48,Hyderabad,South
+5834,14-04-2025,Laptop,Electronics,4,1465,5860,968.72,Bangalore,South
+5835,15-04-2025,Monitor,Electronics,5,436,2180,532.24,Mumbai,West
+5836,16-04-2025,Desk Chair,Furniture,2,648,1296,92.04,Mumbai,West
+5837,17-04-2025,Printer,Office Supplies,5,382,1910,459.27,Pune,West
+5838,18-04-2025,Keyboard,Electronics,1,558,558,103.28,Bangalore,South
+5839,19-04-2025,Printer,Office Supplies,3,371,1113,220,Bangalore,South
+5840,20-04-2025,Laptop,Electronics,5,575,2875,385.69,Bangalore,South
+5841,21-04-2025,Monitor,Electronics,4,227,908,118.42,Pune,West
+5842,22-04-2025,Keyboard,Electronics,1,1411,1411,104.06,Bangalore,South
+5843,23-04-2025,Keyboard,Electronics,3,1022,3066,458.81,Chennai,South
+5844,24-04-2025,Headphones,Electronics,1,1062,1062,245.16,Delhi,North
+5845,25-04-2025,Laptop,Electronics,1,1374,1374,292.41,Mumbai,West
+5846,26-04-2025,Notebook,Office Supplies,5,838,4190,213.07,Bangalore,South
+5847,27-04-2025,Headphones,Electronics,5,485,2425,569.22,Bangalore,South
+5848,28-04-2025,Headphones,Electronics,1,517,517,45.71,Bangalore,South
+5849,29-04-2025,Laptop,Electronics,4,791,3164,216.09,Hyderabad,South
+5850,30-04-2025,Keyboard,Electronics,2,548,1096,167.03,Hyderabad,South
+5851,01-05-2025,Printer,Office Supplies,5,425,2125,226.93,Chennai,South
+5852,02-05-2025,Monitor,Electronics,5,1099,5495,732.47,Hyderabad,South
+5853,03-05-2025,Keyboard,Electronics,4,223,892,197.97,Mumbai,West
+5854,04-05-2025,Headphones,Electronics,1,139,139,31.92,Delhi,North
+5855,05-05-2025,Printer,Office Supplies,3,210,630,106.36,Pune,West
+5856,06-05-2025,Mouse,Electronics,3,863,2589,450.48,Delhi,North
+5857,07-05-2025,Office Desk,Furniture,4,1232,4928,1219.37,Mumbai,West
+5858,08-05-2025,Desk Chair,Furniture,3,883,2649,479.19,Mumbai,West
+5859,09-05-2025,Monitor,Electronics,1,476,476,73.79,Chennai,South
+5860,10-05-2025,Office Desk,Furniture,2,175,350,40.07,Chennai,South
+5861,11-05-2025,Monitor,Electronics,3,759,2277,335.51,Mumbai,West
+5862,12-05-2025,Printer,Office Supplies,2,1125,2250,249.84,Hyderabad,South
+5863,13-05-2025,Notebook,Office Supplies,4,655,2620,572.56,Delhi,North
+5864,14-05-2025,Office Desk,Furniture,1,423,423,43.74,Delhi,North
+5865,15-05-2025,Headphones,Electronics,5,310,1550,229.43,Delhi,North
+5866,16-05-2025,Printer,Office Supplies,4,348,1392,165.03,Chennai,South
+5867,17-05-2025,Keyboard,Electronics,5,746,3730,331.44,Delhi,North
+5868,18-05-2025,Laptop,Electronics,5,72,360,71.34,Mumbai,West
+5869,19-05-2025,Smartphone,Electronics,2,770,1540,264.59,Delhi,North
+5870,20-05-2025,Headphones,Electronics,3,449,1347,173.89,Delhi,North
+5871,21-05-2025,Headphones,Electronics,5,182,910,80.12,Bangalore,South
+5872,22-05-2025,Mouse,Electronics,2,196,392,89.52,Mumbai,West
+5873,23-05-2025,Office Desk,Furniture,5,373,1865,138.28,Delhi,North
+5874,24-05-2025,Printer,Office Supplies,3,549,1647,153.16,Hyderabad,South
+5875,25-05-2025,Monitor,Electronics,1,999,999,201.05,Bangalore,South
+5876,26-05-2025,Keyboard,Electronics,4,882,3528,769.16,Delhi,North
+5877,27-05-2025,Monitor,Electronics,1,894,894,154.04,Hyderabad,South
+5878,28-05-2025,Notebook,Office Supplies,3,81,243,58.83,Chennai,South
+5879,29-05-2025,Printer,Office Supplies,1,172,172,29.21,Pune,West
+5880,30-05-2025,Notebook,Office Supplies,3,522,1566,377.2,Delhi,North
+5881,31-05-2025,Monitor,Electronics,4,1311,5244,764.68,Delhi,North
+5882,01-06-2025,Monitor,Electronics,4,390,1560,127.84,Delhi,North
+5883,02-06-2025,Mouse,Electronics,3,347,1041,175.19,Bangalore,South
+5884,03-06-2025,Printer,Office Supplies,5,58,290,71.32,Delhi,North
+5885,04-06-2025,Mouse,Electronics,4,911,3644,351.71,Hyderabad,South
+5886,05-06-2025,Monitor,Electronics,1,687,687,75.87,Hyderabad,South
+5887,06-06-2025,Desk Chair,Furniture,5,1488,7440,580.04,Hyderabad,South
+5888,07-06-2025,Mouse,Electronics,1,1467,1467,215.75,Mumbai,West
+5889,08-06-2025,Mouse,Electronics,2,1111,2222,385.96,Delhi,North
+5890,09-06-2025,Mouse,Electronics,3,345,1035,62.68,Mumbai,West
+5891,10-06-2025,Monitor,Electronics,5,1411,7055,1663.95,Mumbai,West
+5892,11-06-2025,Notebook,Office Supplies,4,550,2200,264.11,Bangalore,South
+5893,12-06-2025,Headphones,Electronics,3,574,1722,303.4,Delhi,North
+5894,13-06-2025,Smartphone,Electronics,5,1033,5165,364.81,Pune,West
+5895,14-06-2025,Mouse,Electronics,4,919,3676,854.28,Bangalore,South
+5896,15-06-2025,Monitor,Electronics,2,202,404,75.36,Hyderabad,South
+5897,16-06-2025,Headphones,Electronics,5,1130,5650,327.72,Chennai,South
+5898,17-06-2025,Monitor,Electronics,2,627,1254,280.14,Bangalore,South
+5899,18-06-2025,Office Desk,Furniture,4,119,476,112.94,Hyderabad,South
+5900,19-06-2025,Desk Chair,Furniture,1,887,887,141.41,Mumbai,West
+5901,20-06-2025,Smartphone,Electronics,4,1352,5408,1199.9,Mumbai,West
+5902,21-06-2025,Laptop,Electronics,2,619,1238,164.68,Delhi,North
+5903,22-06-2025,Monitor,Electronics,2,1362,2724,552.72,Delhi,North
+5904,23-06-2025,Notebook,Office Supplies,2,1057,2114,240.44,Hyderabad,South
+5905,24-06-2025,Printer,Office Supplies,5,493,2465,497.6,Chennai,South
+5906,25-06-2025,Monitor,Electronics,3,1162,3486,389.65,Hyderabad,South
+5907,26-06-2025,Desk Chair,Furniture,3,1107,3321,189.35,Pune,West
+5908,27-06-2025,Monitor,Electronics,2,1390,2780,526.57,Hyderabad,South
+5909,28-06-2025,Desk Chair,Furniture,3,318,954,235.17,Hyderabad,South
+5910,29-06-2025,Headphones,Electronics,1,844,844,82.35,Bangalore,South
+5911,30-06-2025,Headphones,Electronics,3,426,1278,72.36,Chennai,South
+5912,01-07-2025,Smartphone,Electronics,5,462,2310,266.44,Delhi,North
+5913,02-07-2025,Smartphone,Electronics,3,780,2340,285.3,Bangalore,South
+5914,03-07-2025,Laptop,Electronics,3,1381,4143,632.23,Bangalore,South
+5915,04-07-2025,Laptop,Electronics,1,289,289,68.62,Hyderabad,South
+5916,05-07-2025,Desk Chair,Furniture,4,726,2904,204.24,Hyderabad,South
+5917,06-07-2025,Laptop,Electronics,3,583,1749,93.11,Hyderabad,South
+5918,07-07-2025,Monitor,Electronics,4,928,3712,298.08,Pune,West
+5919,08-07-2025,Desk Chair,Furniture,4,589,2356,415.28,Bangalore,South
+5920,09-07-2025,Keyboard,Electronics,5,208,1040,243.77,Chennai,South
+5921,10-07-2025,Mouse,Electronics,2,1200,2400,545.82,Pune,West
+5922,11-07-2025,Monitor,Electronics,2,1470,2940,249.04,Chennai,South
+5923,12-07-2025,Notebook,Office Supplies,4,1047,4188,460.82,Chennai,South
+5924,13-07-2025,Monitor,Electronics,3,1294,3882,543.03,Hyderabad,South
+5925,14-07-2025,Desk Chair,Furniture,4,1245,4980,1242.15,Delhi,North
+5926,15-07-2025,Keyboard,Electronics,2,371,742,154.89,Hyderabad,South
+5927,16-07-2025,Printer,Office Supplies,1,1400,1400,320.16,Chennai,South
+5928,17-07-2025,Desk Chair,Furniture,2,1058,2116,513.33,Bangalore,South
+5929,18-07-2025,Keyboard,Electronics,2,930,1860,347.87,Bangalore,South
+5930,19-07-2025,Laptop,Electronics,5,611,3055,208.38,Hyderabad,South
+5931,20-07-2025,Desk Chair,Furniture,2,1499,2998,167.28,Chennai,South
+5932,21-07-2025,Desk Chair,Furniture,2,699,1398,112.54,Bangalore,South
+5933,22-07-2025,Mouse,Electronics,2,1349,2698,169.68,Chennai,South
+5934,23-07-2025,Smartphone,Electronics,3,85,255,63.56,Delhi,North
+5935,24-07-2025,Office Desk,Furniture,2,867,1734,216.68,Chennai,South
+5936,25-07-2025,Mouse,Electronics,4,875,3500,690.38,Delhi,North
+5937,26-07-2025,Mouse,Electronics,4,1050,4200,724.6,Bangalore,South
+5938,27-07-2025,Smartphone,Electronics,5,681,3405,732.78,Pune,West
+5939,28-07-2025,Headphones,Electronics,2,708,1416,344.49,Pune,West
+5940,29-07-2025,Desk Chair,Furniture,3,880,2640,498.97,Mumbai,West
+5941,30-07-2025,Monitor,Electronics,2,125,250,27.49,Mumbai,West
+5942,31-07-2025,Printer,Office Supplies,3,1119,3357,227.09,Mumbai,West
+5943,01-08-2025,Smartphone,Electronics,4,418,1672,165.58,Chennai,South
+5944,02-08-2025,Mouse,Electronics,1,1056,1056,155.91,Mumbai,West
+5945,03-08-2025,Desk Chair,Furniture,3,1005,3015,176.09,Bangalore,South
+5946,04-08-2025,Printer,Office Supplies,3,1335,4005,267.45,Hyderabad,South
+5947,05-08-2025,Desk Chair,Furniture,3,543,1629,307.8,Mumbai,West
+5948,06-08-2025,Smartphone,Electronics,3,1021,3063,407.11,Hyderabad,South
+5949,07-08-2025,Laptop,Electronics,1,225,225,54.09,Pune,West
+5950,08-08-2025,Notebook,Office Supplies,3,384,1152,185.18,Delhi,North
+5951,09-08-2025,Headphones,Electronics,4,1109,4436,733.09,Hyderabad,South
+5952,10-08-2025,Notebook,Office Supplies,1,1223,1223,113.99,Hyderabad,South
+5953,11-08-2025,Desk Chair,Furniture,3,177,531,46.37,Delhi,North
+5954,12-08-2025,Mouse,Electronics,5,1117,5585,609.95,Mumbai,West
+5955,13-08-2025,Desk Chair,Furniture,2,1358,2716,164.11,Hyderabad,South
+5956,14-08-2025,Headphones,Electronics,1,1179,1179,78.32,Mumbai,West
+5957,15-08-2025,Printer,Office Supplies,1,1259,1259,197.26,Hyderabad,South
+5958,16-08-2025,Headphones,Electronics,1,1049,1049,76.82,Bangalore,South
+5959,17-08-2025,Smartphone,Electronics,2,344,688,72.11,Bangalore,South
+5960,18-08-2025,Smartphone,Electronics,1,1494,1494,245.41,Delhi,North
+5961,19-08-2025,Desk Chair,Furniture,3,1364,4092,705.72,Pune,West
+5962,20-08-2025,Notebook,Office Supplies,1,361,361,31.89,Delhi,North
+5963,21-08-2025,Monitor,Electronics,5,1035,5175,978.23,Hyderabad,South
+5964,22-08-2025,Office Desk,Furniture,5,1418,7090,1439.21,Pune,West
+5965,23-08-2025,Mouse,Electronics,4,1202,4808,966.09,Chennai,South
+5966,24-08-2025,Keyboard,Electronics,1,1022,1022,178.68,Bangalore,South
+5967,25-08-2025,Laptop,Electronics,2,573,1146,67.31,Hyderabad,South
+5968,26-08-2025,Keyboard,Electronics,2,395,790,142.41,Mumbai,West
+5969,27-08-2025,Keyboard,Electronics,3,1160,3480,747.32,Bangalore,South
+5970,28-08-2025,Notebook,Office Supplies,3,86,258,57.63,Pune,West
+5971,29-08-2025,Office Desk,Furniture,1,488,488,29.95,Hyderabad,South
+5972,30-08-2025,Keyboard,Electronics,5,329,1645,119.15,Bangalore,South
+5973,31-08-2025,Office Desk,Furniture,4,1370,5480,1095.06,Hyderabad,South
+5974,01-09-2025,Mouse,Electronics,2,468,936,230.46,Hyderabad,South
+5975,02-09-2025,Monitor,Electronics,4,494,1976,278,Hyderabad,South
+5976,03-09-2025,Laptop,Electronics,5,1356,6780,1528.01,Hyderabad,South
+5977,04-09-2025,Notebook,Office Supplies,2,1242,2484,387.05,Mumbai,West
+5978,05-09-2025,Notebook,Office Supplies,4,1377,5508,1129.66,Mumbai,West
+5979,06-09-2025,Keyboard,Electronics,2,73,146,23.55,Hyderabad,South
+5980,07-09-2025,Printer,Office Supplies,1,885,885,76.66,Delhi,North
+5981,08-09-2025,Office Desk,Furniture,5,58,290,53.17,Delhi,North
+5982,09-09-2025,Printer,Office Supplies,3,170,510,104.89,Mumbai,West
+5983,10-09-2025,Office Desk,Furniture,3,157,471,107.13,Pune,West
+5984,11-09-2025,Mouse,Electronics,5,164,820,156.94,Pune,West
+5985,12-09-2025,Office Desk,Furniture,4,1132,4528,455.86,Bangalore,South
+5986,13-09-2025,Desk Chair,Furniture,5,1482,7410,965.89,Chennai,South
+5987,14-09-2025,Monitor,Electronics,3,331,993,236.05,Pune,West
+5988,15-09-2025,Office Desk,Furniture,3,519,1557,346.43,Delhi,North
+5989,16-09-2025,Office Desk,Furniture,1,879,879,84.18,Pune,West
+5990,17-09-2025,Mouse,Electronics,4,1102,4408,729.08,Delhi,North
+5991,18-09-2025,Notebook,Office Supplies,4,528,2112,286.53,Delhi,North
+5992,19-09-2025,Smartphone,Electronics,5,1070,5350,320.14,Delhi,North
+5993,20-09-2025,Printer,Office Supplies,4,560,2240,528.11,Hyderabad,South
+5994,21-09-2025,Printer,Office Supplies,4,178,712,135.53,Delhi,North
+5995,22-09-2025,Office Desk,Furniture,3,1196,3588,477.73,Bangalore,South
+5996,23-09-2025,Headphones,Electronics,4,627,2508,552.5,Hyderabad,South
+5997,24-09-2025,Smartphone,Electronics,3,481,1443,192.39,Mumbai,West
+5998,25-09-2025,Smartphone,Electronics,2,1477,2954,300.55,Delhi,North
+5999,26-09-2025,Smartphone,Electronics,5,411,2055,176,Hyderabad,South
