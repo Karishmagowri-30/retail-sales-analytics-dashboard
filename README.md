@@ -16,4 +16,4 @@ to identify trends and patterns using Python and Streamlit.
 - Sales trend identification
 
 ### Dataset
-Retail sales dataset (1000+ records)# retail-sales-analytics-dashboard
+Retail sales dataset (1000+ records)
